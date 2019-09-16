@@ -28,6 +28,6 @@ class Route {
   }
 
   estimatedTime(peak){
-    
+
   }
 }
