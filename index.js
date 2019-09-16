@@ -34,6 +34,6 @@ class Route {
     else{
       return this.blocksTravelled()/3
     }
-    
+
   }
 }
